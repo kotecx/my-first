@@ -1,4 +1,9 @@
 first
 second
 
+<<<<<<< HEAD
 4. develop 
+=======
+branch
+5. zmena
+>>>>>>> branch2
